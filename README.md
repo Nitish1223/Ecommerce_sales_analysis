@@ -1,5 +1,5 @@
 E-commerce Sales Data Analysis Report
-reorted by- NITISHKUMAR BALASAHEB BHOSALE
+reported by- NITISHKUMAR BALASAHEB BHOSALE
 1. Introduction
 This project focuses on analyzing e-commerce sales data using MySQL and Power BI to generate meaningful business insights.
 2. Objectives
